@@ -1,0 +1,78 @@
+food{
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+
+}
+.headen {
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    margin-top: 10px;
+    color: brown;
+}
+
+.card-title{
+   text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+   color: rgb(214 22 22);
+
+}
+.card-text{
+    margin-left: 10px;
+}
+.Price{
+    font-weight :bold;
+}
+.btn {
+    border: solid black 2px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-bottom: 25px;
+    width:35%;
+    border-radius: 13px;
+    font-size:large;
+    font-family :Georgia, 'Times New Roman', Times, serif
+
+}
+.card {
+margin: 20px;
+margin-top: 40px;
+border-radius: 10px;
+}
+
+
+.card:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0,20, 90 );
+    background-color: rgba(171, 194, 227, 0.553);
+}
+
+.btn:hover{
+    border: solid 2px ;
+    background-color: rgba(113, 136, 170, 0.553);
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+}
+
+.card-img{
+    width: 50%;
+    height: 10%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    padding-top: 5px;
+}
+.card-01 {
+    background-color: rgba(3, 4, 4, 0.955);
+
+}
+.card-01 .card-title {
+    color: white;
+    margin-top: 20px;
+    font-size: xx-large;
+}
+.card-01 .card-text {
+    color: rgba(197, 174, 25, 0.797)
+}
+.card-01 .btn{
+    background-color: rgba(197, 174, 25, 0.797);
+}
